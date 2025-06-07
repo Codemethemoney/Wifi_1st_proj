@@ -1,0 +1,8 @@
+# Essential requirements for Wi-Fi Scanner
+customtkinter==5.2.0
+netifaces==0.11.0
+Pillow==10.1.0
+
+# Optional but recommended
+pandas==2.1.4
+loguru==0.7.2

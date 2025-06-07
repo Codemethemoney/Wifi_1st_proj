@@ -1,0 +1,3 @@
+#!/bin/bash
+# Quick Wi-Fi Scanner - The simplest way to run
+cd "$(dirname "$0")" && ./run.sh
